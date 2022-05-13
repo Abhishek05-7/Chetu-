@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Navya\ODDEVEN\bin\Debug\ODDEVEN.exe.config
+C:\Users\admin\source\repos\Navya\ODDEVEN\bin\Debug\ODDEVEN.exe
+C:\Users\admin\source\repos\Navya\ODDEVEN\bin\Debug\ODDEVEN.pdb
+C:\Users\admin\source\repos\Navya\ODDEVEN\obj\Debug\ODDEVEN.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Navya\ODDEVEN\obj\Debug\ODDEVEN.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Navya\ODDEVEN\obj\Debug\ODDEVEN.exe
+C:\Users\admin\source\repos\Navya\ODDEVEN\obj\Debug\ODDEVEN.pdb

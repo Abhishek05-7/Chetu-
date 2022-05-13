@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\Navya\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Navya\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache

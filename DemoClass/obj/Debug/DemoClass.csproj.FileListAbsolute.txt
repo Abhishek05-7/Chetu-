@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Navya\DemoClass\bin\Debug\DemoClass.exe.config
+C:\Users\admin\source\repos\Navya\DemoClass\bin\Debug\DemoClass.exe
+C:\Users\admin\source\repos\Navya\DemoClass\bin\Debug\DemoClass.pdb
+C:\Users\admin\source\repos\Navya\DemoClass\obj\Debug\DemoClass.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Navya\DemoClass\obj\Debug\DemoClass.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Navya\DemoClass\obj\Debug\DemoClass.exe
+C:\Users\admin\source\repos\Navya\DemoClass\obj\Debug\DemoClass.pdb
